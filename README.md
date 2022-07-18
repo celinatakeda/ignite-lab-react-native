@@ -28,8 +28,6 @@ Para verificar se a instalação ocorreu com sucesso, execute o comando abaixo:
 expo --version
 ```
 
-npm install -g expo-cli
-
 ## Expo Go
 
 Com a CLI instalada no seu computador, você consegue criar projetos Expo e executar o `metro bundler` para servir o seu código, mas para executar o app no seu celular você precisa instalar o aplicativo **Expo Go.** Ele é o responsável por pegar o código que o `metro bundler` envia e exibir em tela o seu app React Native.
