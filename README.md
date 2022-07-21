@@ -35,3 +35,6 @@ Com a CLI instalada no seu computador, você consegue criar projetos Expo e exec
 ## Bibliotecas Úteis
 https://nativebase.io/
 
+
+![rockethelp1](https://user-images.githubusercontent.com/82118386/180246813-432ff347-712b-4dd2-b363-eb9243e46244.jpg)
+
