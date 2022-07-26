@@ -4,7 +4,8 @@ Para navegação das páginas foi utilizado a biblioteca React Navigation.
 
 Foi utilizado o ambiente Firebase para conecção da aplicação com o banco de dados.
 
-![rockethelp1](https://user-images.githubusercontent.com/82118386/180997909-b6a92f82-948a-46ed-835d-15ee2a5c2f1a.jpg)
+
+![rockethelp1](https://user-images.githubusercontent.com/82118386/180998152-d520c9ad-6868-4d2c-a4bb-5ec1daab291f.jpg)
 
 
 ![rockethelp2](https://user-images.githubusercontent.com/82118386/180997925-d0f130ae-0527-4430-ba7e-07e0eac0b6cc.jpg)
