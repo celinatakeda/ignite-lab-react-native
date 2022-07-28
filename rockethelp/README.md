@@ -35,5 +35,13 @@ Com a CLI instalada no seu computador, você consegue criar projetos Expo e exec
 ## Bibliotecas Úteis
 https://nativebase.io/
 
+https://docs.expo.dev/guides/using-custom-fonts/
+
+https://reactnavigation.org/
+
+https://firebase.google.com/
+
+
+
 
 
