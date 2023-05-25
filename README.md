@@ -4,7 +4,7 @@ Para navegação das páginas foi utilizado a biblioteca React Navigation.
 
 Para conecção da aplicação com o banco de dados foi utilizado ambiente do Firebase.
 
-<div class="flex">
+<div class="flex" align=center>
   <img alt="rockethelp" src=".github/rockethelp1.jpg">
   <img alt="rockethelp" src=".github/rockethelp2.jpg" >
 </div>
